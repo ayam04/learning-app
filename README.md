@@ -1,4 +1,4 @@
-# Resume Learning App
+# Learning App
 
 A full-stack learning application with **Netflix-style "Resume where you left off"** functionality. Built with Flutter (frontend) and Go (backend).
 
